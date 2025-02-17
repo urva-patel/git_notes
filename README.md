@@ -1,13 +1,13 @@
 # GIT commands
 
 ## add to commit list
-To commit a file:
+To add a file:
 ```
-git commit {file}
+git add {file}
 ```
-To commit all changed files
+To add all changed files
 ```
-git commit .
+git add .
 ```
 
 ## branches
